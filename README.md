@@ -53,9 +53,14 @@ Owen Darry
 
 ### Cafe Sales Analytics Dashboards
 
-![Dashboard 1](Cafe_Sales_Analytics/visuals/cafe_dashboard.png)
-![Dashboard 2](Cafe_Sales_Analytics/visuals/cafe_dashboard2.png)
-![Dashboard 3](Cafe_Sales_Analytics/visuals/cafe_dashboard3.png)
-![Dashboard 4](Cafe_Sales_Analytics/visuals/cafe_dashboard4.png)
-![Dashboard 5](Cafe_Sales_Analytics/visuals/cafe_dashboard5.png)
+![Cafe Sales Dashboard 1](https://githubusercontent.com)
+
+![Cafe Sales Dashboard 2](https://githubusercontent.com)
+
+![Cafe Sales Dashboard 3](https://githubusercontent.com)
+
+![Cafe Sales Dashboard 4](https://githubusercontent.com)
+
+![Cafe Sales Dashboard 5](https://githubusercontent.com)
+
 
