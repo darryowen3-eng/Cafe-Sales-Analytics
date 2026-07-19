@@ -53,18 +53,15 @@ Owen Darry
 
 ### Cafe Sales Analytics Dashboards
 
-![Dashboard 1](https://githubusercontent.com)
+![Dashboard 1](visuals/cafe_dashboard.png)
 
-![Dashboard 2](https://githubusercontent.com)
+![Dashboard 2](visuals/cafe_dashboard2.png)
 
-![Dashboard 3](https://githubusercontent.com)
+![Dashboard 3](visuals/cafe_dashboard3.png)
 
-![Dashboard 4](https://githubusercontent.com)
+![Dashboard 4](visuals/cafe_dashboard4.png)
 
-![Dashboard 5](https://githubusercontent.com)
-
-
-
+![Dashboard 5](visuals/cafe_dashboard5.png)
 
 
 
